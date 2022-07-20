@@ -1,0 +1,22 @@
+.myH2 {
+  text-align:center;
+  font-size: 4rem;
+}
+.myP {
+  text-align: justify;
+  padding-left:15%;
+  padding-right:15%;
+  font-size: 30px;
+  font-family: "Adobe Fan Heiti Std B";
+}
+@media all and (max-width:700px){
+  .myP {
+    padding:2%;
+  }
+}
+
+img{
+  background-position: center;
+  background-size:cover;
+}
+

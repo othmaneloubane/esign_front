@@ -1,0 +1,9 @@
+/* Home section */
+
+.home {
+  width: 100%;
+  height: 100vh;
+  background-image: url(https://www.creer-entreprendre.fr/wp-content/uploads/2020/11/la-signature-electronique.jpg);
+  background-position: center top;
+  background-size:cover;
+}

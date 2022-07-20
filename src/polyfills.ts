@@ -42,6 +42,14 @@
  *
  */
 
+import 'jquery/dist/jquery';
+import 'jquery/dist/jquery.min';
+import 'jquery-easing/jquery.easing.1.3';
+import 'jquery-easing/dist/jquery.easing.1.3.umd';
+import 'jquery-easing/dist/jquery.easing.1.3.umd.min';
+import 'bootstrap/dist/js/bootstrap';
+import 'bootstrap/dist/js/bootstrap.min';
+
 /***************************************************************************************************
  * Zone JS is required by default for Angular itself.
  */
